@@ -116,8 +116,3 @@ When the required evidence cannot be produced, report the result as
 The `SKILL.md` frontmatter contains only the discovery name and description
 needed by compatible harnesses. No personal or project-specific information is
 required to use the package.
-
-## Before publishing
-
-Choose and add a licence that matches how you want others to reuse the skills.
-No licence is included in this package.
